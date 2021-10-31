@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+}
+.kotak_login {
+    width: 284px;
+    height: 187px;
+    background-color: aqua;
+}
+.form {
+    text-align: center;
+}
